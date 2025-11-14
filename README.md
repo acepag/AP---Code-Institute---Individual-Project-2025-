@@ -221,10 +221,15 @@ This project provides a complete set of outputs that demonstrate the full workfl
 All deliverables included in the repository are listed below:
 
 ✔ A fully cleaned dataset
+
 ✔ A complete EDA Jupyter notebook
+
 ✔ Feature engineering (primary_genre, genre_count)
+
 ✔ Multiple professional visualisations
+
 ✔ A structured GitHub repository
+
 ✔ A high-quality README.md
 
 Everything aligns with best practices for portfolio-ready data analysis projects.
