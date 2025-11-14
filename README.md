@@ -30,6 +30,8 @@ This repository demonstrates professional analytical workflow, storytelling with
 
 📊 Project Overview
 
+_____________________________________________________________________________________________________________________________________________
+
 Mobile gaming is the largest sector in the global games industry, generating billions annually.
 This project answers critical analytical questions:
 
