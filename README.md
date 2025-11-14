@@ -133,8 +133,8 @@ All visuals are produced using **Matplotlib** and **Seaborn**, including:
 
 ---
 
-### 📊 1. Revenue Distribution Horizontal Box Chart
-A visual showing how global sales are spread across all games.
+### 📊 1. Revenue Distribution 
+A Horizontal bnox chart visual showing how global sales are spread across all games.
 
 <img width="678" height="790" alt="image" src="https://github.com/user-attachments/assets/db634ecf-5f88-4739-9508-11a8a90176a2" />
 
