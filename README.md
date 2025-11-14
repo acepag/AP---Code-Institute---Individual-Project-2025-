@@ -126,23 +126,41 @@ Understanding whether older games still achieve high revenue.
 ## 5.) 📈 3. Visualisation:
 _____________________________________________________________________________________________________________________________________________
 
-This section translates raw data into clear, interpretable visuals.
-
+This section translates raw data into clear, interpretable visuals.  
 Each chart is intentionally designed to highlight patterns, outliers, and structural behaviour in the games market.
 
-All visuals are produced using Matplotlib and Seaborn, including:
+All visuals are produced using **Matplotlib** and **Seaborn**, including:
 
-- Revenue distribution histograms
+---
 
-- Bar charts of top publishers
+### 📊 1. Revenue Distribution Horizontal Box Chart
+A visual showing how global sales are spread across all games.
 
-- Genre frequency plots
+<img width="678" height="790" alt="image" src="https://github.com/user-attachments/assets/db634ecf-5f88-4739-9508-11a8a90176a2" />
 
-- Release year trend plots
+*Insight: Revenue is heavily skewed — a small number of titles dominate the market.*
 
-- Feature-engineered genre insights
+---
 
-These plots support the final conclusions through clean, readable visuals.
+### 🏆 2. Top Publishers by Total Revenue  
+A bar chart highlighting the publishers generating the most cumulative revenue.
+
+<img width="666" height="388" alt="image" src="https://github.com/user-attachments/assets/a14a2433-8771-4271-8498-0d6037ad8e33" />
+
+*Insight: Tencent, Supercell, and Mixi appear consistently as industry leaders.*
+
+---
+
+### 🎮 3. Genre Frequency Distribution  
+A plot showing which primary genres appear most often.
+
+<img width="726" height="302" alt="image" src="https://github.com/user-attachments/assets/485c41df-43d6-442b-bf9b-e6107a7469d1" />
+
+*Insight: RPG, Strategy, and Puzzle genres dominate the highest-grossing games.*
+
+---
+
+These visuals support the final conclusions through clean, readable, insight-driven analysis.
 
 ## 6.) 🧠 Key Insights:
 _____________________________________________________________________________________________________________________________________________
