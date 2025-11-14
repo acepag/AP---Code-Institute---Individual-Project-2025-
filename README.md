@@ -1,8 +1,10 @@
 # 📊 Highest-Grossing Mobile Games — Full Data Analysis Project (2025)
-An end-to-end data analysis project exploring revenue, genre dynamics, publisher performance, and market forces behind the highest-grossing mobile games ever released.
+An end-to-end analysis of the global mobile games market, this project explores how revenue, genre trends, publishers, and release timelines shape the highest-grossing mobile games of all time.
 
-Built using Python (pandas, matplotlib, seaborn) inside a Jupyter Notebook as part of the Code Institute – Individual Project (2025).
-This repository demonstrates professional analytical workflow, storytelling with data, and industry-level documentation.
+Through a combination of data cleaning, feature engineering, exploratory analysis, and clear visual storytelling, this project uncovers the patterns, behaviours, and market forces behind billion-dollar mobile titles.
+
+Built using Python (pandas, matplotlib, seaborn) inside a Jupyter Notebook, the goal of this repository is to demonstrate a complete, industry-standard analytical workflow — from raw data to actionable insights — in a clean, well-documented, portfolio-ready format.
+_____________________________________________________________________________________________________________________________________________
 
 ## 📚 Table of Contents:
 
