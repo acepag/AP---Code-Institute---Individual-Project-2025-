@@ -50,7 +50,7 @@ ________________________________________________________________________________
 ├── highest_grossing_mobile_games.csv
 └── analysis.ipynb                 ← Full project notebook (cleaning, EDA, visuals)
 
-🧹 1. Data Cleaning & Preparation
+🧹 1. Data Cleaning & Preparation:
 _____________________________________________________________________________________________________________________________________________
 
 The dataset required multiple preparation steps before analysis:
