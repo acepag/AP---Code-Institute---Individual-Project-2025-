@@ -284,3 +284,18 @@ If you have any questions, feedback, or would like to discuss this project furth
 GitHub: https://github.com/acepag
 
 Email: acepag@gmail.com
+
+12.) 🙌 Credits & Acknowledgements
+_______________________________________________________________________________________________________
+
+A huge thank you to the following sources and contributors:
+
+- **John Anih** — my Code Institute mentor, for his guidance, feedback, and support throughout the project.
+- **Code Institute** — for providing the learning framework, project guidelines, and support.
+- **Kaggle / Public Data Sources** — for datasets used in the analysis (if applicable).
+- **Python Community** — for extensive open-source libraries including Pandas, NumPy, Matplotlib, and Seaborn.
+- **Matplotlib & Seaborn Documentation** — for guidance on data visualisation best practices.
+- **GitHub Community** — for inspiration on repository structure and clean README formatting.
+- **Colleagues/friends of cohort 2025 AI with DATA Analytics** — for discussions and support during the project.
+
+This project is built on the collective knowledge, tools, and generosity of the global data science community.
