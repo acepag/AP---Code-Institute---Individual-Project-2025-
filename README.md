@@ -16,7 +16,7 @@ This repository demonstrates professional analytical workflow, storytelling with
 
 5.) 📈 3. Visualisation
 
-6.) 7.) 🧠 Key Insights
+6.) 🧠 Key Insights
 
 7.) 🛠 Technologies Used
 
