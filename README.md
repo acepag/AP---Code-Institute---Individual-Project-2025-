@@ -3,7 +3,7 @@ An end-to-end analysis of the global mobile games market, this project explores 
 
 Through a combination of data cleaning, feature engineering, exploratory analysis, and clear visual storytelling, this project uncovers the patterns, behaviours, and market forces behind billion-dollar mobile titles.
 
-Built using Python (pandas, matplotlib, seaborn) inside a Jupyter Notebook, the goal of this repository is to demonstrate a complete, industry-standard analytical workflow — from raw data to actionable insights — in a clean, well-documented, portfolio-ready format.
+Built using Python (pandas, matplotlib, seaborn) inside a Jupyter Notebook, the goal of this repository is to demonstrate a complete, industry-standard analytical workflow - from raw data to actionable insights - in a clean, well-documented, portfolio-ready format.
 _____________________________________________________________________________________________________________________________________________
 
 ## 📚 Table of Contents:
