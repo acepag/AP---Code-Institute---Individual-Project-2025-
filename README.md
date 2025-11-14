@@ -35,9 +35,13 @@ Mobile gaming is the largest sector in the global games industry, generating bil
 This project answers critical analytical questions:
 
 🎯 Which games generate the most global revenue?
+
 🎯 Which genres dominate the market and why?
+
 🎯 Which publishers consistently produce high-performing titles?
+
 🎯 Do older games still generate significant revenue?
+
 🎯 What patterns exist across genre, platform, and release year?
 
 2.) 📁 Repository Structure:
