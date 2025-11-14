@@ -28,7 +28,7 @@ This repository demonstrates professional analytical workflow, storytelling with
 
 11.) 📬 Contact
 
-1.) 📊 Project Overview:
+## 1.) 📊 Project Overview:
 _____________________________________________________________________________________________________________________________________________
 
 Mobile gaming is the largest sector in the global games industry, generating billions annually.
@@ -44,7 +44,7 @@ This project answers critical analytical questions:
 
 🎯 What patterns exist across genre, platform, and release year?
 
-2.) 📁 Repository Structure:
+## 2.) 📁 Repository Structure:
 _____________________________________________________________________________________________________________________________________________
 
 Before exploring the notebook, analysis, or visual outputs, it’s important to understand how the project is organised. 
@@ -55,7 +55,7 @@ The following layout provides a high-level overview of all folders, datasets, an
 
 <img width="1138" height="242" alt="image" src="https://github.com/user-attachments/assets/38e16953-de25-4be9-b515-7d0910297166" />
 
-3.) 🧹 1. Data Cleaning & Preparation:
+## 3.) 🧹 1. Data Cleaning & Preparation:
 _____________________________________________________________________________________________________________________________________________
 
 This section outlines all preprocessing steps taken to ensure the dataset is accurate, consistent, and ready for analysis. 
@@ -94,7 +94,7 @@ It covers the full workflow from initial inspection to final, analysis-ready dat
 
 - Checked and managed NaN values in genre data.
 
-4.) 🔍 2. Exploratory Data Analysis (EDA):
+## 4.) 🔍 2. Exploratory Data Analysis (EDA):
 _____________________________________________________________________________________________________________________________________________
 
 The EDA section provides a structured, insight-driven walkthrough of the dataset.
@@ -121,7 +121,7 @@ Which publishers generate the most revenue, and how frequently they appear in to
 
 Understanding whether older games still achieve high revenue.
 
-5.) 📈 3. Visualisation:
+## 5.) 📈 3. Visualisation:
 _____________________________________________________________________________________________________________________________________________
 
 This section translates raw data into clear, interpretable visuals.
@@ -142,7 +142,7 @@ All visuals are produced using Matplotlib and Seaborn, including:
 
 These plots support the final conclusions through clean, readable visuals.
 
-6.) 🧠 Key Insights:
+## 6.) 🧠 Key Insights:
 _____________________________________________________________________________________________________________________________________________
 
 This section summarises the most important patterns uncovered in the data.
@@ -169,7 +169,7 @@ These insights highlight market behaviour, genre performance, and sales dynamics
 
 - Frequent updates and events keep revenue high across many years.
 
-7.) 🛠 Technologies Used:
+## 7.) 🛠 Technologies Used:
 _____________________________________________________________________________________________________________________________________________
 
 This project is built using a modern, data-analysis focused Python stack.
@@ -190,7 +190,7 @@ Jupyter Notebook
 
 GitHub
 
-8.) ▶ How to Run the Project:
+## 8.) ▶ How to Run the Project:
 _____________________________________________________________________________________________________________________________________________
 
 To make the project easy to reproduce, the repository includes all required files and dependencies.
@@ -211,7 +211,7 @@ jupyter notebook
 
 Run analysis.ipynb top to bottom.
 
-9.) 📦 Deliverables:
+## 9.) 📦 Deliverables:
 _____________________________________________________________________________________________________________________________________________
 
 This project provides a complete set of outputs that demonstrate the full workflow — from raw data exploration to final insights and visuals.
@@ -227,7 +227,7 @@ All deliverables included in the repository are listed below:
 
 Everything aligns with best practices for portfolio-ready data analysis projects.
 
-10.) 🚀 Next Steps / Future Enhancements:
+## 10.) 🚀 Next Steps / Future Enhancements:
 _____________________________________________________________________________________________________________________________________________
 
 While the current project successfully meets its objectives, there are several opportunities to expand its scope, deepen insights, and enhance functionality.
@@ -251,7 +251,7 @@ Future improvements could include:
 
 These enhancements could transform the project into a full analytics case study.
 
-11.) 📬 Contact:
+## 11.) 📬 Contact:
 _____________________________________________________________________________________________________________________________________________
 
 If you have any questions, feedback, or would like to discuss this project further, feel free to reach out:
