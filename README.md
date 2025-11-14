@@ -42,6 +42,8 @@ This project answers critical analytical questions:
 🎯 What patterns exist across genre, platform, and release year?
 
 📁 Repository Structure
+_____________________________________________________________________________________________________________________________________________
+
 📦 AP---Code-Institute---Individual-Project-2025-
 │
 ├── README.md                      ← You are here
@@ -49,6 +51,7 @@ This project answers critical analytical questions:
 └── analysis.ipynb                 ← Full project notebook (cleaning, EDA, visuals)
 
 🧹 1. Data Cleaning & Preparation
+_____________________________________________________________________________________________________________________________________________
 
 The dataset required multiple preparation steps before analysis:
 
@@ -85,6 +88,7 @@ Counts how many genres each game spans — useful for studying genre complexity.
 Checked and managed NaN values in genre data.
 
 🔍 2. Exploratory Data Analysis (EDA)
+_____________________________________________________________________________________________________________________________________________
 
 The notebook contains clear, structured analysis covering:
 
@@ -105,6 +109,7 @@ Which publishers generate the most revenue, and how frequently they appear in to
 Understanding whether older games still achieve high revenue.
 
 📈 3. Visualisation
+_____________________________________________________________________________________________________________________________________________
 
 All visuals are produced using Matplotlib and Seaborn, including:
 
@@ -121,6 +126,7 @@ Feature-engineered genre insights
 These plots support the final conclusions through clean, readable visuals.
 
 🧠 Key Insights
+_____________________________________________________________________________________________________________________________________________
 
 Here are the headline findings from the analysis:
 
@@ -145,6 +151,7 @@ Higher genre_count correlates with broader appeal and higher revenues.
 Frequent updates and events keep revenue high across many years.
 
 🛠 Technologies Used
+_____________________________________________________________________________________________________________________________________________
 
 Python 3.x
 
@@ -166,20 +173,18 @@ Clone the repository:
 
 git clone https://github.com/acepag/AP---Code-Institute---Individual-Project-2025-.git
 
-
 Install packages:
 
 pip install pandas numpy matplotlib seaborn
-
 
 Open the notebook:
 
 jupyter notebook
 
-
 Run analysis.ipynb top to bottom.
 
 📦 Deliverables
+_____________________________________________________________________________________________________________________________________________
 
 This project includes:
 
@@ -193,6 +198,7 @@ This project includes:
 Everything aligns with best practices for portfolio-ready data analysis projects.
 
 🚀 Next Steps / Future Enhancements
+_____________________________________________________________________________________________________________________________________________
 
 Although this project is complete, potential extensions include:
 
@@ -214,6 +220,7 @@ Combine with advertising data, player spending habits, or global downloads for d
 These enhancements could transform the project into a full analytics case study.
 
 📬 Contact
+_____________________________________________________________________________________________________________________________________________
 
 If you’d like to discuss the work or explore collaborations:
 
