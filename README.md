@@ -166,7 +166,7 @@ Jupyter Notebook
 
 GitHub
 
-8.) ▶ How to Run the Project
+8.) ▶ How to Run the Project:
 _____________________________________________________________________________________________________________________________________________
 
 Clone the repository:
