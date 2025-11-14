@@ -6,30 +6,29 @@ This repository demonstrates professional analytical workflow, storytelling with
 
 📚 Table of Contents:
 
-📊 Project Overview
+1.) 📊 Project Overview
 
-📁 Repository Structure
+2.) 📁 Repository Structure
 
-🧹 1. Data Cleaning & Preparation
+3.) 🧹 1. Data Cleaning & Preparation
 
-🔍 2. Exploratory Data Analysis (EDA)
+4.) 🔍 2. Exploratory Data Analysis (EDA)
 
-📈 3. Visualisation
+5.) 📈 3. Visualisation
 
-🧠 Key Insights
+6.) 7.) 🧠 Key Insights
 
-🛠 Technologies Used
+7.) 🛠 Technologies Used
 
-▶ How to Run the Project
+8.) ▶ How to Run the Project
 
-📦 Deliverables
+9.) 📦 Deliverables
 
-🚀 Next Steps / Future Enhancements
+10.) 🚀 Next Steps / Future Enhancements
 
-📬 Contact
+11.) 📬 Contact
 
-📊 Project Overview:
-
+1.) 📊 Project Overview:
 _____________________________________________________________________________________________________________________________________________
 
 Mobile gaming is the largest sector in the global games industry, generating billions annually.
@@ -41,7 +40,7 @@ This project answers critical analytical questions:
 🎯 Do older games still generate significant revenue?
 🎯 What patterns exist across genre, platform, and release year?
 
-📁 Repository Structure:
+2.) 📁 Repository Structure:
 _____________________________________________________________________________________________________________________________________________
 
 📦 AP---Code-Institute---Individual-Project-2025-
@@ -50,7 +49,7 @@ ________________________________________________________________________________
 ├── highest_grossing_mobile_games.csv
 └── analysis.ipynb                 ← Full project notebook (cleaning, EDA, visuals)
 
-🧹 1. Data Cleaning & Preparation:
+3.) 🧹 1. Data Cleaning & Preparation:
 _____________________________________________________________________________________________________________________________________________
 
 The dataset required multiple preparation steps before analysis:
@@ -87,7 +86,7 @@ Counts how many genres each game spans — useful for studying genre complexity.
 
 Checked and managed NaN values in genre data.
 
-🔍 2. Exploratory Data Analysis (EDA):
+4.) 🔍 2. Exploratory Data Analysis (EDA):
 _____________________________________________________________________________________________________________________________________________
 
 The notebook contains clear, structured analysis covering:
@@ -108,7 +107,7 @@ Which publishers generate the most revenue, and how frequently they appear in to
 
 Understanding whether older games still achieve high revenue.
 
-📈 3. Visualisation:
+5.) 📈 3. Visualisation:
 _____________________________________________________________________________________________________________________________________________
 
 All visuals are produced using Matplotlib and Seaborn, including:
@@ -125,7 +124,7 @@ All visuals are produced using Matplotlib and Seaborn, including:
 
 These plots support the final conclusions through clean, readable visuals.
 
-🧠 Key Insights:
+6.) 🧠 Key Insights:
 _____________________________________________________________________________________________________________________________________________
 
 Here are the headline findings from the analysis:
@@ -150,7 +149,7 @@ Higher genre_count correlates with broader appeal and higher revenues.
 
 Frequent updates and events keep revenue high across many years.
 
-🛠 Technologies Used:
+7.) 🛠 Technologies Used:
 _____________________________________________________________________________________________________________________________________________
 
 Python 3.x
@@ -167,7 +166,8 @@ Jupyter Notebook
 
 GitHub
 
-▶ How to Run the Project
+8.) ▶ How to Run the Project
+_____________________________________________________________________________________________________________________________________________
 
 Clone the repository:
 
@@ -183,7 +183,7 @@ jupyter notebook
 
 Run analysis.ipynb top to bottom.
 
-📦 Deliverables:
+9.) 📦 Deliverables:
 _____________________________________________________________________________________________________________________________________________
 
 This project includes:
@@ -197,7 +197,7 @@ This project includes:
 
 Everything aligns with best practices for portfolio-ready data analysis projects.
 
-🚀 Next Steps / Future Enhancements:
+10.) 🚀 Next Steps / Future Enhancements:
 _____________________________________________________________________________________________________________________________________________
 
 Although this project is complete, potential extensions include:
@@ -219,7 +219,7 @@ Combine with advertising data, player spending habits, or global downloads for d
 
 These enhancements could transform the project into a full analytics case study.
 
-📬 Contact:
+11.) 📬 Contact:
 _____________________________________________________________________________________________________________________________________________
 
 If you’d like to discuss the work or explore collaborations:
