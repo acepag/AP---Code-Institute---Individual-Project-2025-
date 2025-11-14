@@ -4,7 +4,7 @@ An end-to-end data analysis project exploring revenue, genre dynamics, publisher
 Built using Python (pandas, matplotlib, seaborn) inside a Jupyter Notebook as part of the Code Institute – Individual Project (2025).
 This repository demonstrates professional analytical workflow, storytelling with data, and industry-level documentation.
 
-📚 Table of Contents
+📚 Table of Contents:
 
 📊 Project Overview
 
@@ -28,7 +28,7 @@ This repository demonstrates professional analytical workflow, storytelling with
 
 📬 Contact
 
-📊 Project Overview
+📊 Project Overview:
 
 _____________________________________________________________________________________________________________________________________________
 
@@ -41,7 +41,7 @@ This project answers critical analytical questions:
 🎯 Do older games still generate significant revenue?
 🎯 What patterns exist across genre, platform, and release year?
 
-📁 Repository Structure
+📁 Repository Structure:
 _____________________________________________________________________________________________________________________________________________
 
 📦 AP---Code-Institute---Individual-Project-2025-
@@ -87,7 +87,7 @@ Counts how many genres each game spans — useful for studying genre complexity.
 
 Checked and managed NaN values in genre data.
 
-🔍 2. Exploratory Data Analysis (EDA)
+🔍 2. Exploratory Data Analysis (EDA):
 _____________________________________________________________________________________________________________________________________________
 
 The notebook contains clear, structured analysis covering:
@@ -108,7 +108,7 @@ Which publishers generate the most revenue, and how frequently they appear in to
 
 Understanding whether older games still achieve high revenue.
 
-📈 3. Visualisation
+📈 3. Visualisation:
 _____________________________________________________________________________________________________________________________________________
 
 All visuals are produced using Matplotlib and Seaborn, including:
@@ -125,7 +125,7 @@ All visuals are produced using Matplotlib and Seaborn, including:
 
 These plots support the final conclusions through clean, readable visuals.
 
-🧠 Key Insights
+🧠 Key Insights:
 _____________________________________________________________________________________________________________________________________________
 
 Here are the headline findings from the analysis:
@@ -150,7 +150,7 @@ Higher genre_count correlates with broader appeal and higher revenues.
 
 Frequent updates and events keep revenue high across many years.
 
-🛠 Technologies Used
+🛠 Technologies Used:
 _____________________________________________________________________________________________________________________________________________
 
 Python 3.x
@@ -183,7 +183,7 @@ jupyter notebook
 
 Run analysis.ipynb top to bottom.
 
-📦 Deliverables
+📦 Deliverables:
 _____________________________________________________________________________________________________________________________________________
 
 This project includes:
@@ -197,7 +197,7 @@ This project includes:
 
 Everything aligns with best practices for portfolio-ready data analysis projects.
 
-🚀 Next Steps / Future Enhancements
+🚀 Next Steps / Future Enhancements:
 _____________________________________________________________________________________________________________________________________________
 
 Although this project is complete, potential extensions include:
@@ -219,7 +219,7 @@ Combine with advertising data, player spending habits, or global downloads for d
 
 These enhancements could transform the project into a full analytics case study.
 
-📬 Contact
+📬 Contact:
 _____________________________________________________________________________________________________________________________________________
 
 If you’d like to discuss the work or explore collaborations:
