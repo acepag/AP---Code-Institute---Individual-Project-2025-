@@ -47,57 +47,71 @@ This project answers critical analytical questions:
 2.) 📁 Repository Structure:
 _____________________________________________________________________________________________________________________________________________
 
+Before exploring the notebook, analysis, or visual outputs, it’s important to understand how the project is organised. 
+
+A clear structure ensures that anyone — from mentors to future collaborators — can quickly navigate the codebase, find the right files, and understand the workflow behind the analysis.
+
+The following layout provides a high-level overview of all folders, datasets, and core components included in this project.
+
 <img width="1138" height="242" alt="image" src="https://github.com/user-attachments/assets/38e16953-de25-4be9-b515-7d0910297166" />
 
 3.) 🧹 1. Data Cleaning & Preparation:
 _____________________________________________________________________________________________________________________________________________
 
-The dataset required multiple preparation steps before analysis:
+This section outlines all preprocessing steps taken to ensure the dataset is accurate, consistent, and ready for analysis. 
+
+It covers the full workflow from initial inspection to final, analysis-ready data.
 
 ✔ Standardised Column Names
 
-Removed whitespace
+- Removed whitespace
 
-Normalised casing
+- Normalised casing
 
-Ensured consistent schema (Global_Sales instead of mixed variants)
+- Ensured consistent schema (Global_Sales instead of mixed variants)
 
 ✔ Cleaned Revenue Values
 
-Converted currency-formatted strings ($14,657,500,000) into integers for analysis.
+- Converted currency-formatted strings ($14,657,500,000) into integers for analysis.
 
 ✔ Extracted Release Year
 
-Converted release dates into a usable Year column.
+- Converted release dates into a usable Year column.
 
 ✔ Feature Engineering
 
-Two critical new features were created:
+- Two critical new features were created:
 
 1️⃣ primary_genre
 
-Extracts the first genre listed in genre_tags and standardises it.
+- Extracts the first genre listed in genre_tags and standardises it.
 
 2️⃣ genre_count
 
-Counts how many genres each game spans — useful for studying genre complexity.
+- Counts how many genres each game spans — useful for studying genre complexity.
 
 ✔ Missing Data Handling
 
-Checked and managed NaN values in genre data.
+- Checked and managed NaN values in genre data.
 
 4.) 🔍 2. Exploratory Data Analysis (EDA):
 _____________________________________________________________________________________________________________________________________________
 
-The notebook contains clear, structured analysis covering:
+The EDA section provides a structured, insight-driven walkthrough of the dataset.
+
+Rather than simply visualising numbers, the notebook focuses on uncovering meaningful patterns, relationships, and trends that shape the global games market.
+
+Each visual has been intentionally designed to highlight why the data matters — not just what it shows.
+
+The analysis covers:
 
 🎮 Top-grossing games
 
-Ranking games by revenue with publisher and year context.
+- Ranking games by revenue with publisher and year context.
 
 🏷 Genre dynamics
 
-Identifying the dominant genres and hybrid genre combinations.
+- Identifying the dominant genres and hybrid genre combinations.
 
 🏢 Publisher performance
 
@@ -109,6 +123,10 @@ Understanding whether older games still achieve high revenue.
 
 5.) 📈 3. Visualisation:
 _____________________________________________________________________________________________________________________________________________
+
+This section translates raw data into clear, interpretable visuals.
+
+Each chart is intentionally designed to highlight patterns, outliers, and structural behaviour in the games market.
 
 All visuals are produced using Matplotlib and Seaborn, including:
 
@@ -127,30 +145,36 @@ These plots support the final conclusions through clean, readable visuals.
 6.) 🧠 Key Insights:
 _____________________________________________________________________________________________________________________________________________
 
-Here are the headline findings from the analysis:
+This section summarises the most important patterns uncovered in the data.
+
+These insights highlight market behaviour, genre performance, and sales dynamics — giving a clear picture of what drives success in the global games landscape.
 
 ⭐ 1. A small handful of publishers dominate
 
-Tencent, Supercell, Mixi, and Niantic account for a disproportionate share of global revenue.
+- Tencent, Supercell, Mixi, and Niantic account for a disproportionate share of global revenue.
 
 ⭐ 2. Genre hybrids win
 
-Games blending RPG, Strategy, Puzzle, or MMO mechanics outperform single-genre games.
+- Games blending RPG, Strategy, Puzzle, or MMO mechanics outperform single-genre games.
 
 ⭐ 3. Older games remain blockbuster earners
 
-Clash of Clans (2012) and Monster Strike (2013) still generate massive revenue.
+- Clash of Clans (2012) and Monster Strike (2013) still generate massive revenue.
 
 ⭐ 4. Multi-genre games appeal to larger audiences
 
-Higher genre_count correlates with broader appeal and higher revenues.
+- Higher genre_count correlates with broader appeal and higher revenues.
 
 ⭐ 5. Mobile gaming success favours long-term live-service models
 
-Frequent updates and events keep revenue high across many years.
+- Frequent updates and events keep revenue high across many years.
 
 7.) 🛠 Technologies Used:
 _____________________________________________________________________________________________________________________________________________
+
+This project is built using a modern, data-analysis focused Python stack.
+
+The following tools power the data cleaning, exploration, and visualisation workflows:
 
 Python 3.x
 
@@ -169,6 +193,10 @@ GitHub
 8.) ▶ How to Run the Project:
 _____________________________________________________________________________________________________________________________________________
 
+To make the project easy to reproduce, the repository includes all required files and dependencies.
+
+Follow the steps below to set up the environment, load the dataset, and run the Jupyter notebook without issues:
+
 Clone the repository:
 
 git clone https://github.com/acepag/AP---Code-Institute---Individual-Project-2025-.git
@@ -186,7 +214,9 @@ Run analysis.ipynb top to bottom.
 9.) 📦 Deliverables:
 _____________________________________________________________________________________________________________________________________________
 
-This project includes:
+This project provides a complete set of outputs that demonstrate the full workflow — from raw data exploration to final insights and visuals.
+
+All deliverables included in the repository are listed below:
 
 ✔ A fully cleaned dataset
 ✔ A complete EDA Jupyter notebook
@@ -200,29 +230,31 @@ Everything aligns with best practices for portfolio-ready data analysis projects
 10.) 🚀 Next Steps / Future Enhancements:
 _____________________________________________________________________________________________________________________________________________
 
-Although this project is complete, potential extensions include:
+While the current project successfully meets its objectives, there are several opportunities to expand its scope, deepen insights, and enhance functionality.
+
+Future improvements could include:
 
 🔹 Machine Learning Models
-Predict revenue based on publisher, genre, and release year.
+- Predict revenue based on publisher, genre, and release year.
 
 🔹 Sentiment Analysis
-Analyse user reviews (App Store / Google Play) to correlate player sentiment with revenue.
+- Analyse user reviews (App Store / Google Play) to correlate player sentiment with revenue.
 
 🔹 Time-Series Forecasting
-Predict revenue growth trends for top games.
+- Predict revenue growth trends for top games.
 
 🔹 Interactive Dashboards
-Build dashboards in Power BI, Tableau, or Plotly Dash for dynamic exploration.
+- Build dashboards in Power BI, Tableau, or Plotly Dash for dynamic exploration.
 
 🔹 Multi-dataset merging
-Combine with advertising data, player spending habits, or global downloads for deeper insights.
+- Combine with advertising data, player spending habits, or global downloads for deeper insights.
 
 These enhancements could transform the project into a full analytics case study.
 
 11.) 📬 Contact:
 _____________________________________________________________________________________________________________________________________________
 
-If you’d like to discuss the work or explore collaborations:
+If you have any questions, feedback, or would like to discuss this project further, feel free to reach out:
 
 GitHub: https://github.com/acepag
 
