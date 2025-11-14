@@ -47,11 +47,7 @@ This project answers critical analytical questions:
 2.) 📁 Repository Structure:
 _____________________________________________________________________________________________________________________________________________
 
-📦 AP---Code-Institute---Individual-Project-2025-
-│
-├── README.md                      ← You are here
-├── highest_grossing_mobile_games.csv
-└── analysis.ipynb                 ← Full project notebook (cleaning, EDA, visuals)
+<img width="1138" height="242" alt="image" src="https://github.com/user-attachments/assets/38e16953-de25-4be9-b515-7d0910297166" />
 
 3.) 🧹 1. Data Cleaning & Preparation:
 _____________________________________________________________________________________________________________________________________________
