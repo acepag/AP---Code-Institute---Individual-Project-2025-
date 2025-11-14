@@ -176,19 +176,19 @@ This project is built using a modern, data-analysis focused Python stack.
 
 The following tools power the data cleaning, exploration, and visualisation workflows:
 
-Python 3.x
+- Python 3.x
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
-GitHub
+- GitHub
 
 ## 8.) ▶ How to Run the Project:
 _____________________________________________________________________________________________________________________________________________
@@ -197,17 +197,17 @@ To make the project easy to reproduce, the repository includes all required file
 
 Follow the steps below to set up the environment, load the dataset, and run the Jupyter notebook without issues:
 
-Clone the repository:
+🔹Clone the repository:
 
-git clone https://github.com/acepag/AP---Code-Institute---Individual-Project-2025-.git
+- Git clone https://github.com/acepag/AP---Code-Institute---Individual-Project-2025-.git
 
-Install packages:
+🔹Install packages:
 
-pip install pandas numpy matplotlib seaborn
+- Pip install pandas numpy matplotlib seaborn
 
-Open the notebook:
+🔹Open the notebook:
 
-jupyter notebook
+- Jupyter notebook
 
 Run analysis.ipynb top to bottom.
 
