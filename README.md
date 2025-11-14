@@ -113,15 +113,15 @@ ________________________________________________________________________________
 
 All visuals are produced using Matplotlib and Seaborn, including:
 
-Revenue distribution histograms
+- Revenue distribution histograms
 
-Bar charts of top publishers
+- Bar charts of top publishers
 
-Genre frequency plots
+- Genre frequency plots
 
-Release year trend plots
+- Release year trend plots
 
-Feature-engineered genre insights
+- Feature-engineered genre insights
 
 These plots support the final conclusions through clean, readable visuals.
 
